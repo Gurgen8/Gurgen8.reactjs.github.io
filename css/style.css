@@ -1,0 +1,19 @@
+#root{
+  display: flex;
+  height: 600px;
+  justify-content: center;
+  align-items: center;
+    
+}
+
+span{
+
+  width:0px ;
+  height: 5px ;
+  background-color:gold;
+  position: absolute;
+  bottom:1px;
+  left: 0;
+  transition:all 1.3s
+
+}
